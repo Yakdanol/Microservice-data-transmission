@@ -1,0 +1,9 @@
+databaseChangeLog:
+  - include:
+      file: databases/filter-rules.sql
+  - include:
+      file: databases/deduplication-rules.sql
+  - include:
+      file: databases/enrichment-rules.sql
+  - include:
+      file: databases/fill/rules.sql
