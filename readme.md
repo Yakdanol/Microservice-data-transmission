@@ -5,7 +5,8 @@
 ---
 
 <h2 align="center"> Scheme </h2>
-![Data Transmission scheme](https://github.com/Yakdanol/Microservice-data-transmission/Scheme.jpg)
+
+![Data Transmission scheme](Scheme.jpg)
 
 ---
 
